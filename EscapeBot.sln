@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeBot", "EscapeBot\EscapeBot.csproj", "{E347BF53-B596-4CFE-A89B-7D547ABAC58D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E347BF53-B596-4CFE-A89B-7D547ABAC58D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E347BF53-B596-4CFE-A89B-7D547ABAC58D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E347BF53-B596-4CFE-A89B-7D547ABAC58D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E347BF53-B596-4CFE-A89B-7D547ABAC58D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47C2A969-249B-4325-B64E-76D9D2738A20}
+	EndGlobalSection
+EndGlobal
